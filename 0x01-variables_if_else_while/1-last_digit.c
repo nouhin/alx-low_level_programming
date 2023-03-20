@@ -15,7 +15,7 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	
-	last_digit = n % 10:
+	last_digit = n % 10;
 
 		if (last_digit > 5)
 			print("Last digit of %i is %i and is greater than 5", n, last_digit);
