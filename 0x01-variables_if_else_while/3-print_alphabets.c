@@ -11,7 +11,7 @@
 int main(void)
 {
 	char ch = 'a';
-    char CH = 'A';
+	char CH = 'A';
 
 	while (ch <= 'z')
 	{
@@ -19,11 +19,11 @@ int main(void)
 		++ch;
 	}
 
-    while (CH <= 'Z')
-    {
-        putchar(CH);
-        ++CH;
-    }
+	while (CH <= 'Z')
+	{
+		putchar(CH);
+		++CH;
+	}
 
 	putchar('\n');
 
