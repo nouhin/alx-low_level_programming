@@ -10,10 +10,12 @@
 	char c;
 	int i;
 	while(i<10)
+	{	f
 		for (c='a'; c<='z'; c++)
 		{
 			_putchar(c);
 		}
 		_putchar('\n');
 		i++;
+	}
 }
