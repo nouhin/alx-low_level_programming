@@ -11,7 +11,7 @@
 	int i = 0;
 
 	while(i < 10)
-	{	f
+	{
 		for (c = 'a'; c <= 'z'; c++)
 		{
 			_putchar(c);
