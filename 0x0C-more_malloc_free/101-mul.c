@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * is_digit 
- * @s: string to be evaluated
- *
+ * is_digit - description
+ * @s: description
+ * Return : description
  */
 int is_digit(char *s)
 {

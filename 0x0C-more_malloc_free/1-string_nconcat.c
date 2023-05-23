@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * string_nconcat
- * @s1: first string
- * @s2: second string
- * @n: number of bytes of s2 to concatenate
- *
+ * string_nconcat - description
+ * @s1: description
+ * @s2: description
+ * @n: description
+ * Return : description
  */
 char *string_nconcat(char *s1, char *s2, unsigned int n)
 {

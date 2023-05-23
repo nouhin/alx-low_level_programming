@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * malloc_checked
- * @b: the size to allocate
- *
+ * malloc_checked - description
+ * @b: description
+ * Return: description
  */
 void *malloc_checked(unsigned int b)
 {
