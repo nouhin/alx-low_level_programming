@@ -3,7 +3,7 @@
 /**
  * is_digit - description
  * @s: description
- * 
+ *
  * Return : description
  */
 int is_digit(char *s)
