@@ -5,8 +5,7 @@
  * @ptr: description
  * @old_size: description
  * @new_size: description
- *
- * Return : description
+ * Return: description
  */
 
 void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size)

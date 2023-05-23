@@ -5,8 +5,7 @@
  * @s1: description
  * @s2: description
  * @n: description
- *
- * Return : description
+ * Return: description
  */
 char *string_nconcat(char *s1, char *s2, unsigned int n)
 {
